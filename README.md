@@ -1,8 +1,12 @@
 ### Hi there 👋
+[Google Scholar](https://scholar.google.com/citations?user=vVMbx1kAAAAJ&hl=en)
+
+
+- 🥽 I'm a Chemical Physics graduate student in the [Friesner Group](https://friesner.chem.columbia.edu) at Columbia University. In the group, I mainly work on phaseless auxilary field quantum Monte Carlo (ph-AFQMC), focusing on systems containing transition metals. 
+- 📷 Outside of lab I'm also interested in photography. You can check out some of my works at my [Behance](https://www.behance.net/hufngvuowng/).
+
 
 <!--
-**hufngvuowng/hufngvuowng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
