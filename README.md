@@ -1,9 +1,8 @@
 ### Hi there 👋
-[Google Scholar](https://scholar.google.com/citations?user=vVMbx1kAAAAJ&hl=en)
 
 
-- 🥽 I'm a Chemical Physics graduate student in the [Friesner Group](https://friesner.chem.columbia.edu) at Columbia University. In the group, I mainly work on phaseless auxilary field quantum Monte Carlo (ph-AFQMC), focusing on systems containing transition metals. 
-- 📷 Outside of lab I'm also interested in photography. You can check out some of my works at my [Behance](https://www.behance.net/hufngvuowng/).
+- 🥽 My general research interest is in algorithm and software development for simulation of chemical systems. I recently graduated with from Columia University, where I have been working on applying phaseless Auxiliary Field Quantum Monte Carlo (ph-AFQMC) to study properties of transition metal molecular clusters in the [Friesner group](https://friesner.chem.columbia.edu). You can find more information from my publications on my [Google Scholar](https://scholar.google.com/citations?user=vVMbx1kAAAAJ&hl=en).
+- 📷 Outside of research, I'm also interested in photography, both in the theory and practice. Broadly speaking, I am interested in documenting urban spaces and the relationship between humans and nature. Some of my photographic heroes include Eugene Atget and Thomas Struth. While I'm working to get my portfolio up and running, you check out some sample works on [Behance](https://www.behance.net/hufngvuowng/).
 
 <!--
 Here are some ideas to get you started:
